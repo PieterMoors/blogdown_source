@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indiv Diff on Pieter Moors</title>
+    <link>https://perswww.kuleuven.be/~u0072929/tags/indiv-diff/index.xml</link>
+    <description>Recent content in Indiv Diff on Pieter Moors</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Pieter Moors</copyright>
+    <atom:link href="/~u0072929/tags/indiv-diff/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Individual differences in perceptual organization</title>
+      <link>https://perswww.kuleuven.be/~u0072929/project/indiv_diff/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://perswww.kuleuven.be/~u0072929/project/indiv_diff/</guid>
+      <description>&lt;p&gt;People can perceive the same world in radically different ways. #TheDress, the photograph of a dress of which the color was perceived either as black and blue or as white and gold, went viral and provided a stir precisely because it illustrates how individuals differ in their perception of what we generally consider to be objective aspects of the world.
+It is much less well appreciated that individuals also considerably differ in the way in which they perceptually organize the world. Currently, this topic has only received limited attention from small-scale and focused studies. The goal of this research proposal is to go beyond the approach of current studies and set up a large-scale effort to document and quantify the extent to which individuals differ in how they perceptually organize the world, relying on internet-based data collection and novel data-analysis approaches. We will do so by setting up an online environment in which individuals can freely participate in several tasks that relate to perceptual organization. We will then quantify how individuals group together (“cluster”) on these tasks. The large-scale, principled, and quantitative nature of this approach to individual differences in perceptual organization will provide a unique contribution to the field. The results will reveal the structure of individual differences in how we perceive the world, highlighting that individual differences need to be taken seriously to understand visual perception.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
