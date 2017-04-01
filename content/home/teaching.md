@@ -10,7 +10,7 @@ subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 60
+weight = 40
 
 +++
 
@@ -22,11 +22,11 @@ weight = 60
 
 [Methods of Scientific Research,  Part Two](https://onderwijsaanbod.kuleuven.be/syllabi/e/P0Q02AE.htm)
 
-- Supervising students throughout four different assignment 
+- Supervising students throughout four different assignments 
     
 [Advanced Topics in Perception and Action](https://onderwijsaanbod.kuleuven.be/syllabi/e/P0R71AE.htm)
 
-- Class on *Unconscious visual processing* 
+- Class on unconscious visual processing 
 
 ### 2012 - 2016
 

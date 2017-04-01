@@ -146,6 +146,16 @@ defaultContentLanguageInSubdir = false
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/pieter-moors-716356124/"
+    
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0002-4667-1235"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "//www.researchgate.net/profile/Pieter_Moors"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -163,18 +173,18 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
+  weight = 4
+
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
   weight = 5
 
 [[menu.main]]
