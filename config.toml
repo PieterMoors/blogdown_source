@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-96757748-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -141,22 +141,7 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/PieterMoors"
-
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/pieter-moors-716356124/"
     
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "//orcid.org/0000-0002-4667-1235"
-
-  [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "//www.researchgate.net/profile/Pieter_Moors"
-
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.

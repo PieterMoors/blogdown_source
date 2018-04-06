@@ -14,6 +14,16 @@ weight = 40
 
 +++
 
+### 2017 - 2018
+
+[Topics in Psychonomic Science](https://onderwijsaanbod.kuleuven.be/syllabi/e/P0P75AE.htm#activetab=doelstellingen_idp728512)
+
+- Classes on individual differences in visual perception 
+
+[Methods of Scientific Research,  Part Two](https://onderwijsaanbod.kuleuven.be/syllabi/e/P0Q02AE.htm)
+
+- Supervising students throughout four different assignments 
+  
 ### 2016 - 2017
 
 [Psychophysics](https://onderwijsaanbod.kuleuven.be/syllabi/e/P0Q44AE.htm)
