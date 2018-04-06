@@ -12,13 +12,13 @@ selected = true
 title = "Scene integration without awareness: No conclusive evidence for processing scene congruency during continuous flash suppression"
 url_code = "https://dx.doi.org/10.6084/m9.figshare.3102730.v1"
 url_dataset = "https://dx.doi.org/10.6084/m9.figshare.3102730.v1"
-url_pdf = "http://perswww.kuleuven.be/~u0072929/pubs/12_scenes.pdf"
+url_pdf = "http://perswww.kuleuven.be/~u0072929/pdf/12_scenes.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name="Pdf Supplement"
-url="http://http://perswww.kuleuven.be/~u0072929/pubs/12_scenes_supplement.pdf"
+url="http://http://perswww.kuleuven.be/~u0072929/pdf/12_scenes_supplement.pdf"
 
 +++
